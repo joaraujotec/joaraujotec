@@ -1,8 +1,14 @@
 ### Olá👨🏽
-Eu sou José Araújo<br> 
-Desenvolvedor e professor de francês<br>
-Formado em ADS em 2015(atualmente voltado para o mercado).<br>
-Meu objetivo atual é atuar como FullStack e aperfeiçoar ainda mais meu francês e minhas habilidades como programador!
+ Eu sou José Araújo<br> 
+ Professor de francês desde 2017<br>
+ Desenvolvedor. Formado em ADS em 2015(atualmente voltado para o mercado).<br>
+ Meu objetivo atual é atuar como desenvolvedor e aperfeiçoar ainda mais meu francês e minhas habilidades como programador!
+
+### Salut
+ Je m'appelle José Araújo<br> 
+ Prof de français depuis 2017<br>
+ Développeur. Diplomé en analyse et dévelopement de systèmes depuis 2015(actuellement de retour dans le domaine de la technologie .<br>
+ Mon objectif principal est d'agir en tant que développeur et de perfectionner encore plus mon français et mes compétences en tant que programmeur!
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaraujotec&show_icons=true&theme=radical"/>
@@ -11,6 +17,7 @@ Meu objetivo atual é atuar como FullStack e aperfeiçoar ainda mais meu francê
 </div>
 
 ### Lets get conected !!
+### On va rester connectés!!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseadamasceno)
 [![Instragram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joaraujo85?igshid=YmMyMTA2M2Y=)
 [![GoogleDrive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1qZIdHwJPptVYmAFSABtcF95OeE5hVIkc?usp=sharing)
