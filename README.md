@@ -13,7 +13,7 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaraujotec&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaraujotec&layout=compact&theme=tokyonight"/>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaraujotec=dark&show_icons=true)
 </div>
 
 ### Lets get conected !!
