@@ -23,9 +23,10 @@
 [![GoogleDrive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1qZIdHwJPptVYmAFSABtcF95OeE5hVIkc?usp=sharing)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/FrancaisAvecJose)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JoseAraujoFr)
-
-<div>
+ 
  ### Des technologies que je maîtrise!!
+<div>
+
 <img align="centeer" alt="joaraujotec-html" height="30" widht="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="centeer" alt="joaraujotec-html" height="30" widht="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="centeer" alt="joaraujotec-html" height="30" widht="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
