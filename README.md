@@ -1,4 +1,4 @@
-### Hi 👨🏽
+### Hi 
  
 On my Github you can find projects made during my programming course, as well as some of the work developed during my French classes.
 Feel free to browse through my projects and contribute so they can become even better.
