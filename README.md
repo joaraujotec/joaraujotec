@@ -1,14 +1,26 @@
-### Olá👨🏽
- Eu sou José Araújo<br> 
- Professor de francês desde 2017<br>
- Desenvolvedor. Formado em ADS em 2015(atualmente voltado para o mercado).<br>
- Meu objetivo atual é atuar como desenvolvedor e aperfeiçoar ainda mais meu francês e minhas habilidades como programador!
+### Hi 👨🏽
+ 
+On my Github you can find projects made during my programming course, as well as some of the work developed during my French classes.
+Feel free to browse through my projects and contribute so they can become even better.
+You can also find links to my social networks, such as Twitter, LinkedIn and Facebook, through which I keep in touch with other French developers and teachers.
+I am always looking for learning and development opportunities, so do not hesitate to contact me to share your ideas or projects!
+I hope you enjoy my Github and find what you are looking for!
+ 
+ ### Ola 
+ No meu Github você pode encontrar projetos realizados durante o meu curso de programação, assim como alguns dos trabalhos desenvolvidos durante minhas aulas de francês.
+Sinta-se à vontade para navegar pelos meus projetos e contribuir para que eles possam se tornar ainda melhores.
+Você também pode encontrar ligações para as minhas redes sociais, como Twitter, LinkedIn e Facebook, pelas quais eu mantenho contato com outros desenvolvedores e professores de francês.
+Estou sempre à procura de oportunidades de aprendizado e desenvolvimento, então não hesite em entrar em contato comigo para compartilhar suas ideias ou projetos!
+Espero que você aproveite meu Github e encontre o que procura!
+
 
 ### Salut
- Je m'appelle José Araújo<br> 
- Prof de français depuis 2017<br>
- Développeur. Diplomé en analyse et dévelopement de systèmes depuis 2015(actuellement de retour dans le domaine de la technologie .<br>
- Mon objectif principal est d'agir en tant que développeur et de perfectionner encore plus mon français et mes compétences en tant que programmeur!
+ Sur mon Github, vous pouvez trouver des projets réalisés pendant mon cours de programmation, ainsi que certains des travaux développés pendant mes cours de français.
+N’hésitez pas à parcourir mes projets et à contribuer à leur amélioration.
+Vous pouvez également trouver des liens vers mes réseaux sociaux tels que Twitter, LinkedIn et Facebook, grâce auxquels je reste en contact avec d’autres développeurs et professeurs de français.
+Je suis toujours à la recherche d’opportunités d’apprentissage et de développement, alors n’hésitez pas à me contacter pour partager vos idées ou vos projets!
+J’espère que vous apprécierez mon Github et que vous trouverez ce que vous cherchez !
+
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaraujotec&show_icons=true&theme=radical"/>
